@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Mario Bedoya 👋
 
-<!--
-**MBedoya-Analytics/MBedoya-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coordinador de Logística en una cadena de supermercados con 12 sedes, en formación como **Analista de Datos**.
+Uso datos reales de inventario, agotados y transferencias entre sedes para mejorar decisiones de abastecimiento.
 
-Here are some ideas to get you started:
+### 🛠️ Herramientas
+Excel · Power Query · SQL · Power BI · Python (Pandas) · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Proyectos
+| Proyecto | Herramienta | Estado |
+|---|---|---|
+| PRY-01 · Auditoría de calidad del maestro de inventario | Excel, Power Query | 🔄 En curso |
+| PRY-02 · Tablero de agotados por sede | Excel | ⏳ Noviembre |
+| PRY-03 · KPIs del inventario con SQL | SQL | ⏳ Noviembre |
+| PRY-04 · Dashboard de inventario y agotados | Power BI | ⏳ Diciembre |
+
+### 📫 Contacto
+LinkedIn: (pronto)
